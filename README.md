@@ -131,9 +131,11 @@ npm start
 
 ## 📸 Screenshots
 
-![Home](screenshots/home.png)
+### Home Page
+![Home Page](client/public/AI%20Home.JPG)
 
-![Interview](screenshots/interview.png)
+### Interview Page
+![Interview Page](client/public/AI%20Interview.JPG)
 
 ---
 
